@@ -49,8 +49,8 @@ I'm a **Mobile Application Developer, AI Enthusiast, and Freelancer** with over 
 - **Building My YouTube Channel on Freelancing & AI** 🎥
 
 ## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahid-anwar)  
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/shahid_anwar)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/shahid-anwar-145303120/))  
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/codefit)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ShahidAnwar)  
 
 🚀 **Let's collaborate and build something amazing!**
